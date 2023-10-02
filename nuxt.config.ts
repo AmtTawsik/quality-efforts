@@ -26,7 +26,7 @@ export default defineNuxtConfig({
       htmlAttrs: {
         lang: "en",
       },
-      link: [{ rel: "icon", type: "image/svg+xml", href: "/images/logo.svg" }],
+      link: [{ rel: "icon", type: "image/svg+xml", href: "/logoOne.svg" }],
     },
   },
   image: {
